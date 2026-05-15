@@ -1,8 +1,3 @@
-# test-repo
-test repo for github workshop
-## headline
-* points
-* *code*:
+# fun fact
 
-line1  
-line2
+*i like work*
