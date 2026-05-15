@@ -1,3 +1,3 @@
 # fun fact
 
-*i like work*
+*i watch hamilton for over 40 times*
